@@ -20,7 +20,13 @@ Ogni lingua ha **2 taglie**: **BestAI 1.0** (Qwen3-0.6B, leggero) e **BestAI Pro
 | BestAI 1.0 | Qwen3-0.6B | 444 MB | [bestai-en-standard-q5.gguf](../../releases/download/en-v4/bestai-en-standard-q5.gguf) |
 | BestAI Pro 1.0 | Qwen3-1.7B | 1,26 GB | [bestai-en-pro-q5.gguf](../../releases/download/en-v4/bestai-en-pro-q5.gguf) |
 
-🇫🇷 Français · 🇩🇪 Deutsch · 🇪🇸 Español — *in arrivo.*
+### 🇫🇷 Français — release [`fr-v4`](../../releases/tag/fr-v4)
+| Taglia | Modello | Dimensione | Download |
+|---|---|---|---|
+| BestAI 1.0 | Qwen3-0.6B | 444 MB | [bestai-fr-standard-q5.gguf](../../releases/download/fr-v4/bestai-fr-standard-q5.gguf) |
+| BestAI Pro 1.0 | Qwen3-1.7B | 1,26 GB | [bestai-fr-pro-q5.gguf](../../releases/download/fr-v4/bestai-fr-pro-q5.gguf) |
+
+🇩🇪 Deutsch · 🇪🇸 Español — *in arrivo.*
 
 ## Dettagli tecnici
 
@@ -37,3 +43,5 @@ Ogni lingua ha **2 taglie**: **BestAI 1.0** (Qwen3-0.6B, leggero) e **BestAI Pro
 | bestai-it-pro-q5.gguf | `88932b2966f682e214338805c62cf6d5` |
 | bestai-en-standard-q5.gguf | `f2f407be1560c1a624a0d8162c215455` |
 | bestai-en-pro-q5.gguf | `e2afa6facc9922327a99c377fc8ab720` |
+| bestai-fr-standard-q5.gguf | `b04d4175a1f3f63cb929bc4b0b39aebf` |
+| bestai-fr-pro-q5.gguf | `a2eed8ea9332ef43ece047e726564846` |
